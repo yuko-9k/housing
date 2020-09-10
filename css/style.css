@@ -350,7 +350,8 @@ header {
     .Portfolio .Portfolio-content .Portfolio-item:hover .Portfolio-black {
       opacity: 1; }
   .Portfolio .subcrise {
-    background-color: #00cdce; }
+    background-color: #00cdce;
+    height: 420px; }
     .Portfolio .subcrise h1 {
       margin-top: 70px; }
     .Portfolio .subcrise p {
@@ -370,7 +371,7 @@ header {
     .Portfolio .subcrise button {
       background-color: black;
       color: white;
-      width: 10%;
+      width: 150px;
       margin: 0 auto;
       padding: 6px 50px;
       margin: 15px 0 50px;
